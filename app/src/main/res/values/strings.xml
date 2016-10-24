@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">SqliteTest</string>
+    <string name="app_name">아이돌 그룹 관리</string>
+    <string name="str_name">그룹명: </string>
+    <string name="str_cnt">인원수: </string>
+    <string name="str_but_init">초기화</string>
+    <string name="str_but_input">입력</string>
+    <string name="str_but_select">조회</string>
 </resources>
